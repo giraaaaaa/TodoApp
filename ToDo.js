@@ -156,3 +156,4 @@ const styles = StyleSheet.create({
     width: width / 2
   }
 });
+// using git push
